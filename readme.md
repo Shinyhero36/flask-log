@@ -2,6 +2,7 @@
 
 ![Preview](./.github/banner.png)
 
+## IMPORTANT: The package is not available on pip yet
 ## Installing
 Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/)
 
