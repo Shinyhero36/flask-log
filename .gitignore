@@ -1,0 +1,11 @@
+# Ignore Idea
+.idea
+
+# Ignore cache
+__pycache__
+
+# Ignore Virtual Env
+venv
+
+# Cache files
+*.py*
