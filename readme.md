@@ -34,8 +34,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## Links
-* Documentation: [yet to come]()
-* Releases: [yet to come]()
+* Documentation: [yet to come](#)
+* Releases: [yet to come](#)
 * Code: [https://github.com/Shinyhero36/Flask-Logger](https://github.com/Shinyhero36/Flask-Logger)
 * Issue Tracker: [https://github.com/Shinyhero36/Flask-Logger/issues](https://github.com/Shinyhero36/Flask-Logger/issues)
 
